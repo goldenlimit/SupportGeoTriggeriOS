@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6D042F5518562B29003C0761"
-               BuildableName = "DemoApp.app"
-               BlueprintName = "DemoApp"
-               ReferencedContainer = "container:DemoApp.xcodeproj">
+               BuildableName = "GeotriggerApp.app"
+               BlueprintName = "GeotriggerApp"
+               ReferencedContainer = "container:GeotriggerApp.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6D042F7918562B29003C0761"
-               BuildableName = "DemoAppTests.xctest"
-               BlueprintName = "DemoAppTests"
-               ReferencedContainer = "container:DemoApp.xcodeproj">
+               BuildableName = "GeotriggerAppTests.xctest"
+               BlueprintName = "GeotriggerAppTests"
+               ReferencedContainer = "container:GeotriggerApp.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6D042F5518562B29003C0761"
-            BuildableName = "DemoApp.app"
-            BlueprintName = "DemoApp"
-            ReferencedContainer = "container:DemoApp.xcodeproj">
+            BuildableName = "GeotriggerApp.app"
+            BlueprintName = "GeotriggerApp"
+            ReferencedContainer = "container:GeotriggerApp.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6D042F5518562B29003C0761"
-            BuildableName = "DemoApp.app"
-            BlueprintName = "DemoApp"
-            ReferencedContainer = "container:DemoApp.xcodeproj">
+            BuildableName = "GeotriggerApp.app"
+            BlueprintName = "GeotriggerApp"
+            ReferencedContainer = "container:GeotriggerApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6D042F5518562B29003C0761"
-            BuildableName = "DemoApp.app"
-            BlueprintName = "DemoApp"
-            ReferencedContainer = "container:DemoApp.xcodeproj">
+            BuildableName = "GeotriggerApp.app"
+            BlueprintName = "GeotriggerApp"
+            ReferencedContainer = "container:GeotriggerApp.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

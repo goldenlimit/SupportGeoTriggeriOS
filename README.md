@@ -8,12 +8,7 @@ Esri Support GeoTrigger training project for iOS.
 The objective of this training project is to build a ready-to-use Android/iOS apps that leverages Geotrigger capabilities of the platform in three sessions.
 
 ## Learning Objectives
-
-<<<<<<< HEAD
--	Build Geotrigger apps: build Android apps using Geotrigger SDK.
-=======
--	Build Geotrigger apps: build Android or iOS apps using Geotrigger SDK.
->>>>>>> refs/remotes/origin/master
+-	Build Geotrigger apps: build iOS apps using Geotrigger SDK.
 -	Build Geotrigger apps: troubleshoot common issues related to the implementation of Geotrigger apps (Android or iOS).
 
 ## Learning Contents
